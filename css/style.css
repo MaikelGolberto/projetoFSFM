@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    margin: auto;
+    padding: 20px;
+}
+
+#titulo {
+    text-transform: uppercase;
+    color: #133E79;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+
+.nav-item {
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.container {
+    padding-top: 30px;
+}
+
+.nav-link {
+    color: #000000;
+}
+
+.linha {
+    height: 182.5px;
+    border-right: 1px solid #008940;
+}
+
+.texto {
+    text-align: center;
+}
+
+#bemVindo {
+    padding-right: 159px;
+}
+
+.bem-vindo {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 107px;
+    text-align: center;
+    color: #133E79;
+}
+
+.faculdade {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 107px;
+    text-align: center;
+    color: #008940;
+}
+
+.button-saiba-mais {
+    border-radius: 5px;
+    padding: 1px 25px 1px 25px;
+    background-color: #133E79;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: solid;
+    text-align: center;
+}
+
+.button-saiba-mais:hover {
+    background-color: #008940;    
+}
+
+#button {
+    padding-top: 15px;
+}
+
+#content-right {
+    padding-top: 35px;
+    padding-right: 50px;
+}
+
+.titulo-slide {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.12em;
+}
+
+.texto-slide {
+    text-transform: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    text-transform: none;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: normal;
+}
+
+#bt-slide1 {
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 10px 0px 10px 0px;
+    border-radius: 100%;
+    width: 22px;
+    height: 2px;
+}
+
+#bt-slide1:focus {
+    background-color: #008940;
+}
+
+#bt-slide1:hover {
+    background-color: #008940;
+}
+
+#bt-slide2 {
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 10px 0px 10px 0px;
+    border-radius: 100%;
+    width: 22px;
+    height: 2px;
+}
+
+#bt-slide2:focus {
+    background-color: #008940;
+}
+
+#bt-slide2:hover {
+    background-color: #008940;
+}
+
+#bt-slide3 {
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 10px 0px 10px 0px;
+    border-radius: 100%;
+    width: 22px;
+    height: 2px;
+}
+
+#bt-slide3:focus {
+    background-color: #008940;
+}
+
+#bt-slide3:hover {
+    background-color: #008940;
+}
